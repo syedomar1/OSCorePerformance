@@ -22,6 +22,11 @@ body {
     padding: 20px;
     border-radius: 8px;
 }
+
+#algo{
+    width: 100%;
+}
+
 a {
     font-size: 20px; 
     font-weight: bold;
@@ -54,6 +59,7 @@ form button {
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    border-radius: 75px;
 }
 
 ul {
